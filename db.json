@@ -1,0 +1,20 @@
+{
+  "drivingschools": [
+    {
+      "country": "Srbija",
+      "city": "Beograd",
+      "address": "Nemanjina 4",
+      "type_of_car": "Automatik",
+      "model": "Toyota",
+      "category": "B"
+    },
+    {
+      "country": "Srbija",
+      "city": "Novi Sad",
+      "address": "Bulevar Oslobođenja 10",
+      "type_of_car": "Manuelni",
+      "model": "Opel",
+      "category": "B"
+    }
+  ]
+}
