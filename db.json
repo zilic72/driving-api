@@ -15,6 +15,14 @@
       "type_of_car": "Manuelni",
       "model": "Opel",
       "category": "B"
+    },
+       {
+      "country": "Srbija",
+      "city": "Kragujevac",
+      "address": "Vladimira Rolovića 35",
+      "type_of_car": "Automatik",
+      "model": "Škoda",
+      "category": "B"
     }
   ]
 }
